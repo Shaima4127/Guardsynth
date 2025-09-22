@@ -1,4 +1,4 @@
-GuardSynth: Synthetic Data for Trustworthy AI
+**GuardSynth: Synthetic Data for Trustworthy AI**
 
 This repository contains the project GuardSynth, which focuses on synthetic data generation for training and evaluating AI guardrails in the context of Trustworthy AI.
 
@@ -10,7 +10,7 @@ Guardrail design for input/output filtering
 
 Evaluation of fidelity, utility, and privacy of generated data
 
-Repository Contents
+**Repository Contents**
 
 The repository includes a .zip file with the full project structure:
 
@@ -22,7 +22,7 @@ notebooks/ – Jupyter notebooks for analysis and experiments
 
 results/ – Evaluation outputs, plots, and metrics
 
-Getting Started
+**Getting Started**
 
 Download and unzip the project file (project.zip).
 
